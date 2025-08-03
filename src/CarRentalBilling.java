@@ -1,4 +1,3 @@
-package CarRentalSystem;
 
 import java.util.*;
 
